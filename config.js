@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://dian-mobile.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: '小电客户端团队Blog',
+  subtitle: '小电客户端团队技术blog',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-13148173-5',
   useKatex: false,
   menu: [
     {
@@ -16,18 +16,18 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: '关于我们',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: '联系我们',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: '小电客户端团队',
+    photo: '/icon.png',
+    bio: '卧槽，无情',
     contacts: {
       email: '',
       facebook: '#',
