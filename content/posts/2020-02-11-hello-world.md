@@ -1,7 +1,7 @@
 ---
 template: post
 title: 'Hello, world!'
-slug: 简单，高效，正能量
+slug: Hello world
 draft: false
 date: 2020-02-11T02:00:20.019Z
 description: 向世界问好
