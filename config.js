@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: '小电客户端团队',
     photo: '/icon.png',
-    bio: '卧槽，无情',
+    bio: '简单，高效，正能量',
     contacts: {
       email: '',
       facebook: '#',
